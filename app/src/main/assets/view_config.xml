@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<views>
+<view>
+    <name>com.example.mafei.viewmanager.view.impl.BaseView</name>
+    <flag>FLAG_NEW</flag>
+</view>
+</views>
